@@ -2,18 +2,18 @@
 <LanguageData>
   
   <!-- EN: civilian -->
-  <DMS_Civilian.label>civilian</DMS_Civilian.label>
+  <DMS_Civilian.label>Civilian</DMS_Civilian.label>
   
   <!-- EN: minute man -->
-  <DMS_MinuteMan.label>minute man</DMS_MinuteMan.label>
+  <DMS_MinuteMan.label>Minuteman</DMS_MinuteMan.label>
   
   <!-- EN: heavy minute man -->
-  <DMS_MinuteMan_Heavy.label>heavy minute man</DMS_MinuteMan_Heavy.label>
+  <DMS_MinuteMan_Heavy.label>Heavy Minuteman</DMS_MinuteMan_Heavy.label>
   
   <!-- EN: garrision guard -->
-  <DMS_Security.label>garrision guard</DMS_Security.label>
+  <DMS_Security.label>Garrison Guard</DMS_Security.label>
   
   <!-- EN: trade Agent -->
-  <DMS_Trader.label>trade Agent</DMS_Trader.label>
+  <DMS_Trader.label>Trade Agent</DMS_Trader.label>
   
 </LanguageData>
