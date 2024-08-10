@@ -2,15 +2,15 @@
 <LanguageData>
   
   <!-- EN: gunner -->
-  <DMS_HeavyGunner.label>gunner</DMS_HeavyGunner.label>
+  <DMS_HeavyGunner.label>Gunner</DMS_HeavyGunner.label>
   
   <!-- EN: scout -->
-  <DMS_Soldier.label>scout</DMS_Soldier.label>
+  <DMS_Soldier.label>Scout</DMS_Soldier.label>
   
   <!-- EN: service man -->
-  <DMS_Squad_ServiceMan.label>service man</DMS_Squad_ServiceMan.label>
+  <DMS_Squad_ServiceMan.label>Serviceman</DMS_Squad_ServiceMan.label>
   
   <!-- EN: marksman -->
-  <DMS_Squad_Sniper.label>marksman</DMS_Squad_Sniper.label>
+  <DMS_Squad_Sniper.label>Marksman</DMS_Squad_Sniper.label>
   
 </LanguageData>
